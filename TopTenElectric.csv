@@ -1,0 +1,26 @@
+,Category,Model,Model Year,Manufacturer,Fuel,All-Electric Range,PHEV Total Range,Alternative Fuel Economy City,Alternative Fuel Economy Highway,Alternative Fuel Economy Combined,Conventional Fuel Economy City,Conventional Fuel Economy Highway,Conventional Fuel Economy Combined,Transmission Type,Transmission Make,Engine Type,Engine Size,Engine Cylinder Count,Number of Passengers,Heavy-Duty Power System,Notes,Drivetrain
+312,Sedan/Wagon,"Air Dream R AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,520.0,,126.0,125.0,125.0,,,,Auto,,e-motor,198kW and 498kW electric motors,,,,,AWD
+311,Sedan/Wagon,"Air G Touring AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,516.0,,130.0,132.0,131.0,,,,Auto,,e-motor,178kW and 433kW electric motors,,,,,AWD
+310,Sedan/Wagon,"Air Dream R AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,481.0,,115.0,117.0,116.0,,,,Auto,,e-motor,198kW and 498kW electric motors,,,,,AWD
+309,Sedan/Wagon,"Air Dream P AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,471.0,,117.0,114.0,116.0,,,,Auto,,e-motor,370kW and 459kW electric motors,,,,,AWD
+308,Sedan/Wagon,"Air G Touring AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,469.0,,121.0,122.0,121.0,,,,Auto,,e-motor,178kW and 433kW electric motors,,,,,AWD
+307,Sedan/Wagon,"Air Dream P AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,451.0,,110.0,111.0,111.0,,,,Auto,,e-motor,370kW and 459kW electric motors,,,,,AWD
+392,Sedan/Wagon,Model S Long Range,2021.0,Tesla,Electric,405.0,,124.0,115.0,120.0,,,,Auto,,e-motor,179 kW and 186 kW electric motor,,,,,
+391,Sedan/Wagon,Model S ,2022.0,Tesla,Electric,405.0,,124.0,115.0,120.0,,,,Auto,,e-motor,247 kW dual electric motors,,,,,AWD
+390,Sedan/Wagon,"Model S Plaid (19"" Wheels)",2022.0,Tesla,Electric,396.0,,119.0,112.0,116.0,,,,Auto,,e-motor,250 kW electric motors (X3),,,,,AWD
+389,Sedan/Wagon,"Model S Performance (19"" Wheels)",2021.0,Tesla,Electric,387.0,,114.0,106.0,110.0,,,,Auto,,e-motor,149 kW and 276 kW electric motor,,,,"This model is also available with 21"" wheels, at reduced fuel economy and 334 miles range.",
+388,SUV,Model X Long Range Plus,2021.0,Tesla,Electric,371.0,,109.0,101.0,105.0,,,,Auto,,e-motor,180 and 189 kW electric motor,,,,,
+387,Sedan/Wagon,Model 3 Long Range AWD,2021.0,Tesla,Electric,353.0,,141.0,127.0,134.0,,,,Auto,,e-motor,131 and 190 kW electric motors,,,,,
+386,Sedan/Wagon,Model 3 (Long Range) AWD,2022.0,Tesla,Electric,353.0,,134.0,126.0,131.0,,,,Auto,,e-motor,98 kW and 195 kW electric motors,,,,,AWD
+318,Sedan/Wagon,EQS450+,2022.0,Mercedes-Benz,Electric,350.0,,97.0,97.0,97.0,,,,Auto,,e-motor,245 kW electric motor,,,,,RWD
+384,SUV,Model X AWD,2022.0,Tesla,Electric,348.0,,107.0,97.0,102.0,,,,Auto,,e-motor,243 and 248 kW electric motors,,,,,AWD
+385,Sedan/Wagon,"Model S Plaid (21"" Wheels)",2021.0,Tesla,Electric,348.0,,102.0,99.0,101.0,,,,Auto,,e-motor,250 kW electric motors (X3),,,,,AWD
+383,Sedan/Wagon,"Model S Plaid (21"" Wheels)",2022.0,Tesla,Electric,348.0,,102.0,99.0,101.0,,,,Auto,,e-motor,250 kW electric motors (X3),,,,,AWD
+382,SUV,"Model X Performance (20"" Wheels)",2021.0,Tesla,Electric,341.0,,100.0,95.0,97.0,,,,Auto,,e-motor,151 and 273 kW electric motors,,,,"This model is also available with 22"" wheels, at reduced fuel economy and 300 miles range.",
+317,Sedan/Wagon,EQS 580 4MATIC,2022.0,Mercedes-Benz,Electric,340.0,,92.0,99.0,95.0,,,,Auto,,e-motor,135 and 255 kW electric motors,,,,,AWD
+381,SUV,"Model X Plaid (20"" Wheels)",2022.0,Tesla,Electric,333.0,,103.0,93.0,98.0,,,,Auto,,e-motor,230kW electric motors (X3),,,,,AWD
+380,SUV,Model Y (Long Range) AWD,2022.0,Tesla,Electric,330.0,,127.0,117.0,122.0,,,,Auto,,e-motor,91 and 200 kW electric motors,,,,,AWD
+379,SUV,Model Y Long Range AWD,2021.0,Tesla,Electric,326.0,,131.0,117.0,125.0,,,,Auto,,e-motor,69 and 201 kW electric motors,,,,,
+194,SUV,"iX xDrive50 (20"" Wheels) ",2022.0,BMW,Electric,324.0,,86.0,87.0,86.0,,,,Auto,,e-motor,190 and 230 kW electric motors,,,,,AWD
+240,Pickup,F150 Lightning 4WD Extended Range,2022.0,Ford,Electric,320.0,,78.0,63.0,70.0,,,,Auto,,e-motor,210 kW electric motors (x2),,,,,AWD
+365,SUV,R1S,2022.0,Rivian ,Electric,316.0,,73.0,65.0,69.0,,,,Auto,,e-motor,"162, 162, 163, 163 kW ",,,,,Part-Time 4WD
